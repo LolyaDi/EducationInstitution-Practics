@@ -5,11 +5,11 @@ using System.Data;
 
 namespace EducationInstitution.Console
 {
-    class Program
+    public class Program
     {
-        static void Main(string[] args)
+        public static void Main(string[] args)
         {
-            DataSet dataSet = new DataSet("EducationInstitution");
+            var dataSet = new DataSet("EducationInstitution");
 
             string userChoice;
             int userNumber;
