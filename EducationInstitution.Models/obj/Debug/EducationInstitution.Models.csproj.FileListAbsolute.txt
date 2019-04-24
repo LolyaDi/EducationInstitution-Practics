@@ -1,0 +1,6 @@
+C:\Users\ww\source\repos\EducationInstitution\EducationInstitution.Models\bin\Debug\EducationInstitution.Models.dll
+C:\Users\ww\source\repos\EducationInstitution\EducationInstitution.Models\bin\Debug\EducationInstitution.Models.pdb
+C:\Users\ww\source\repos\EducationInstitution\EducationInstitution.Models\obj\Debug\EducationInstitution.Models.csprojAssemblyReference.cache
+C:\Users\ww\source\repos\EducationInstitution\EducationInstitution.Models\obj\Debug\EducationInstitution.Models.csproj.CoreCompileInputs.cache
+C:\Users\ww\source\repos\EducationInstitution\EducationInstitution.Models\obj\Debug\EducationInstitution.Models.dll
+C:\Users\ww\source\repos\EducationInstitution\EducationInstitution.Models\obj\Debug\EducationInstitution.Models.pdb

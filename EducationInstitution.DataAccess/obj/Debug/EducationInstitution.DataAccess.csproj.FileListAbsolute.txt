@@ -1,0 +1,16 @@
+C:\Users\БейсеноваД.CORP.000\source\repos\EducationInstitution\EducationInstitution.DataAccess\bin\Debug\EducationInstitution.mdf
+C:\Users\БейсеноваД.CORP.000\source\repos\EducationInstitution\EducationInstitution.DataAccess\bin\Debug\EducationInstitution_log.ldf
+C:\Users\БейсеноваД.CORP.000\source\repos\EducationInstitution\EducationInstitution.DataAccess\bin\Debug\EducationInstitution.DataAccess.dll
+C:\Users\БейсеноваД.CORP.000\source\repos\EducationInstitution\EducationInstitution.DataAccess\bin\Debug\EducationInstitution.DataAccess.pdb
+C:\Users\БейсеноваД.CORP.000\source\repos\EducationInstitution\EducationInstitution.DataAccess\obj\Debug\EducationInstitution.DataAccess.csprojAssemblyReference.cache
+C:\Users\БейсеноваД.CORP.000\source\repos\EducationInstitution\EducationInstitution.DataAccess\obj\Debug\EducationInstitution.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\БейсеноваД.CORP.000\source\repos\EducationInstitution\EducationInstitution.DataAccess\obj\Debug\EducationInstitution.DataAccess.dll
+C:\Users\БейсеноваД.CORP.000\source\repos\EducationInstitution\EducationInstitution.DataAccess\obj\Debug\EducationInstitution.DataAccess.pdb
+C:\Users\ww\source\repos\EducationInstitution\EducationInstitution.DataAccess\bin\Debug\EducationInstitution.mdf
+C:\Users\ww\source\repos\EducationInstitution\EducationInstitution.DataAccess\bin\Debug\EducationInstitution_log.ldf
+C:\Users\ww\source\repos\EducationInstitution\EducationInstitution.DataAccess\bin\Debug\EducationInstitution.DataAccess.dll
+C:\Users\ww\source\repos\EducationInstitution\EducationInstitution.DataAccess\bin\Debug\EducationInstitution.DataAccess.pdb
+C:\Users\ww\source\repos\EducationInstitution\EducationInstitution.DataAccess\obj\Debug\EducationInstitution.DataAccess.csprojAssemblyReference.cache
+C:\Users\ww\source\repos\EducationInstitution\EducationInstitution.DataAccess\obj\Debug\EducationInstitution.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\ww\source\repos\EducationInstitution\EducationInstitution.DataAccess\obj\Debug\EducationInstitution.DataAccess.dll
+C:\Users\ww\source\repos\EducationInstitution\EducationInstitution.DataAccess\obj\Debug\EducationInstitution.DataAccess.pdb
